@@ -6,29 +6,46 @@ And the most surprising thing: the Johnson City government will pay remote worke
 
 I'm very happy that Johnson City is improving its downtown area, and I think it's wonderful that they are working towards becoming a Child Friendly City. But wouldn't it be even better if the walking conditions improved, especially with neighborhoods and parks nearby?
 
-### Why can't people use cars?
+### Who cares?
 
-Of course they can use cars! But some people (like me) want to walk. Also, I have been to the new bakery and seen people walk up to it from the surrounding neighborhoods, so I know I'm not the only one.
+Well, I can think of four different types of people that could benefit from fixing the sidewalks:
+ - people in wheelchairs
+ - old people
+ - parents with children in strollers
+ - college students without cars
 
-Don't you think it would be more fun to walk to the bakery and then go spend time outside in the park than drive?
+ If we added more ramps, that would be very helpful for old people who can't step up onto a curb, parents pushing strollers, and people in wheelchairs. College students without cars would benefit from all kinds of improvements on sidewalks and crosswalks, because they either have to walk everywhere or take a bus.
 
-### Ok, but are there really that many unsafe sidewalks?
+### What is there to walk to, anyway?
 
-Time to get out the map.
+Well, there are actually quite a few places to go to within walking distance of the apartment buildings and neighborhoods. Let's get out the map!
 
-[map sidecar, show all data points]
+//////
 
-Yes, there aren't only a few, and I didn't take photos of places all over whole city. These are just the places within walking distance of my house. 
 
-[zoom in to bakery]
+[start map sidecar, layer with pinpoints on interesting places]
 
-And look here! There are a bunch of places near the new bakery! So if a mom or dad in the surrounding neighborhoods walks up with a stroller, they might have a problem walking here.
+Feel free to explore here. There's a lot to visit, yeah?
 
-[zoom back out to scrollable map with all data points]
+[show layer with dangerous places on top of interesting places]
 
-There's only about 30 data points here, but I would like to say that I walked to these places myself collect this data. You can explore here, and check out some places.
+The only problem is all of the unsafe sidewalks and intersections between them.
+
+[show layer with path from apartment to bakery]
+
+For example, if you were to walk from Monarch College Living to Crumb Bakeshop, you would come across [number] places where it's hard to walk.
+
+[zoom into the bakery]
+
+Speaking of Crumb Bakeshop, check out of of the problems with the sidewalk here!
+
+[zoom out to see all datapoints]
+
+Feel free to explore now and check out all of the points.
 
 [end map sidecar]
+
+/////
 
 With all that activity near Model Mill and Crumb Bakeshop, it would be so much better if the sidewalks around them were improved and the intersections were fixed, so that it would be easier and more fun to walk around the city.
 
