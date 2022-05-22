@@ -1,5 +1,5 @@
 # Dangerous_Places
 
+https://www.orcsgirls.org/competitions/storymap-08-2021
 
-Credits:
-https://opensource.com/life/15/2/resize-images-python - resizing images
+https://storymaps.arcgis.com/stories/de00e1183d874a59b891cb5546d487fe
